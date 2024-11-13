@@ -7,3 +7,4 @@ dengan menambahkan file, mengubah file, mengupdate file
 `git commit -m "<pesan_update_file>"` untuk mengubah file
 `git push` untuk mengupdate file ke remote
 `git push -u origin <nama_branch>"` untuk mengupdate file ke remote
+`git push --set-upstream origin <namabranch>` 
